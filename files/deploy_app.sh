@@ -6,13 +6,13 @@
 
 cat << EOM > /var/www/html/index.html
 <html>
-  <head><title>Meow!</title></head>
+  <head><title>Aloha~!</title></head>
   <body>
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
-  <center><h2>Meow World!</h2></center>
+  <center><img src="https://github.com/Team-MOGAK/MOGAK_Spring/assets/110045522/529d7ba1-2695-43ae-9795-3a2541e91b6d"></img></center>
+  <center><h2>Hyun's World!</h2></center>
   Welcome to ${PREFIX}'s app. Replace this text with your own.
   <!-- END -->
 
